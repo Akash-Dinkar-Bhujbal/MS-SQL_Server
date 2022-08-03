@@ -32,6 +32,9 @@ You can learn deeply SQL in this Repository
 - LEFT OUTER JOIN/ RIGHT OUTER JOIN
 - SELF JOIN
 - CROSS JOIN
+</BR>
+
+- Practice: STRING FUNCTIONS 
 
 ## DAY 3
 - SUBSTRING FUNCTION
