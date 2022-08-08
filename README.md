@@ -104,7 +104,8 @@ A space char should separate them.
 3. write a trigger in sql which willfor insert if the name is blank and salary is less than 10000 then It must NOT allow to inserT the record in the table and display appropriate message 
 
 
-
+## TEST
+Small test on overall sql portion till now
 
 ## NOTE:
 - TRUNCATE : DELETE VALUES/ROWS
